@@ -8,13 +8,12 @@ See [CREDITS.md](CREDITS.md) in the top-level directory of this project for info
 
 If you wish to compile and run the game, create the following directory structure:
 
-assets/
-├── audio/
-│   └── [required audio files]
-├── image/
-│   └── [required image files]
-└── font/
-    └── [required font files]
-
-
-
+```text
+assets/  
+├── audio/  
+│   └── [required audio files]  
+├── image/  
+│   └── [required image files]  
+└── font/  
+    └── [required font files]  
+```
